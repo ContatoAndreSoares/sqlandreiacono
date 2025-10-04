@@ -7,7 +7,12 @@ Aqui você vai encontrar conteúdos sobre Python, R, SQL, Excel e Power BI, onde
 ________________________________________
 🔗 Me acompanhe nas redes sociais:
 📺 YouTube: https://www.youtube.com/@contato.andresoares
+
 📷 Instagram:  https://www.instagram.com/contato.andresoares/
+
 🎬 TikTok: https://www.tiktok.com/@contato.andresoares
+
 💼 LinkedIn: https://www.linkedin.com/in/contatoandresoares/
+
 📚 GitHub : https://github.com/ContatoAndreSoares
+
